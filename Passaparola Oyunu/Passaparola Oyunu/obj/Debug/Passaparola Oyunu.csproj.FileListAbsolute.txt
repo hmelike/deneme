@@ -1,0 +1,14 @@
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe.config
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.pdb
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.AssemblyReference.cache
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Form1.resources
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.GenerateResource.cache
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.exe
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.pdb
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe.manifest
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.application
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.exe.manifest
+C:\Users\Sulu\source\repos\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.application
